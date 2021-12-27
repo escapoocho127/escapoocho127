@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @escapoocho127
 - 👀 I’m interested in coding in python and in neural networks
-- 🌱 I’m currently learning engeneering (mechanics and informatics)
+- 🌱 I’m currently learning industrial engeneering (mechanics, supply-chain and informatics)
 - 💞️ I’m looking to collaborate on python projects 
